@@ -1,0 +1,6 @@
+name: VisibilityToggleExpansion
+version: ${project.version}
+main: dev.xhue.visibilitytoggleexpansion.VisibilityToggleExpansion
+api-version: 1.16
+authors: [ xHue ]
+website: http://xhue.ddns.net
